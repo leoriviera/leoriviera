@@ -1,4 +1,8 @@
-## Hi there 👋
+hello!
+
+i'm a cool person who occasionally does cool shit. 
+
+probably writing/doing a conf talk rn. 
 
 <!--
 **leoriviera/leoriviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
