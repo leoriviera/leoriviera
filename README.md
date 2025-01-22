@@ -1,8 +1,4 @@
-hello!
-
-i'm a cool person who occasionally does cool shit. 
-
-probably writing a blog post or conference talk at the moment.
+move fast and build things. ✨
 
 <!--
 **leoriviera/leoriviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
